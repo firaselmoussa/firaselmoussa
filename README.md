@@ -21,7 +21,7 @@
 
 <img src="img/python-logo.png" width='60px' align="left">
 
-<img src="img/java-logo.png" width='30px' align="left" style="padding-right:10px; margin-top:-10px;">
+<img src="img/java-logo.png" width='26px' align="left" style="padding-right:5px; margin-top:-10px;">
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
@@ -31,16 +31,12 @@
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img src="img/github-logo.webp" width='27px' align="left" style="margin-right:10px;">
 
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
+<img src="img/terminal.png" width='30px' align="left">
 
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
-
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
-
-<br />
-<br />
+<br/>
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
