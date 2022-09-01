@@ -15,9 +15,9 @@
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 
-<img src="img/python-logo.png" width='26px' align="left">
+<img src="img/python-logo.png" width='60px' align="left">
 
-<img src="img/java-logo.jpg" width='26px' align="left">
+<img src="img/java-logo.png" width='60px' align="left">
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
