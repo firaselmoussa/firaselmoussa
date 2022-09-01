@@ -9,6 +9,10 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
+<img src="img/netbeans-logo.png" width='25px' align="left" style="padding-right:10px;">
+
+<img src="img/pycharm-logo.png" width='25px' align="left" style="padding-right:10px;">
+
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -17,7 +21,7 @@
 
 <img src="img/python-logo.png" width='60px' align="left">
 
-<img src="img/java-logo.png" width='60px' align="left">
+<img src="img/java-logo.png" width='30px' align="left" style="padding-right:10px; margin-top:-10px;">
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
