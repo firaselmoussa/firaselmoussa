@@ -5,6 +5,17 @@
 - 🌱 I’m currently learning Full Stack Web Development.
 - 🌱 My github is empty but my mind is not.
 
+### Reach to me on:
+
+- 🌱 firaselmoussa@gmail.com
+
+- 🌱 <a href="https://www.linkedin.com/in/firas-el-moussa-ab325221b"><img src="img/linkedin-logo.jpg" width='25px' align="left" style="padding-right:10px;">Firas EL Moussa</a>
+
+### Reach to me on:
+
+- 🌱 firaselmoussa@gmail.com
+- 🌱 <img src="img/linkedin-logo" width='25px' align="left" style="padding-right:10px;">
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
