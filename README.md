@@ -8,13 +8,7 @@
 ### Reach to me on:
 
 - 🌱 firaselmoussa@gmail.com
-
-- 🌱 <a href="https://www.linkedin.com/in/firas-el-moussa-ab325221b"><img src="img/linkedin-logo.jpg" width='25px' align="left" style="padding-right:10px;">Firas EL Moussa</a>
-
-### Reach to me on:
-
-- 🌱 firaselmoussa@gmail.com
-- 🌱 <img src="img/linkedin-logo" width='25px' align="left" style="padding-right:10px;">
+- <a href="https://www.linkedin.com/in/firas-el-moussa-ab325221b"><img src="img/linkedin-logo.jpg" width='25px' align="left" style="padding-right:10px;">Firas EL Moussa</a>
 
 ### Languages and Tools:
 
@@ -29,6 +23,8 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="JavaScript" width="26px" src="img/php-logo.png" style="padding-right:10px; height:26px" />
 
 <img src="img/python-logo.png" width='60px' align="left">
 
