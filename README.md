@@ -32,7 +32,7 @@
 
 <img src="img/python-logo.png" width='60px' align="left">
 
-<img src="img/java-logo.png" width='26px' align="left" style="padding-right:5px; margin-top:-10px;">
+<img src="img/java-logo.png" width='26px' align="left" style="padding-right:5px; margin-top:-15px;">
 
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
@@ -52,6 +52,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Phoenix-Firas's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Phoenix-Firas&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
