@@ -9,8 +9,12 @@
 
 - 🌱 firaselmoussa@gmail.com
 - <a href="https://www.linkedin.com/in/firas-el-moussa-ab325221b"><img src="img/linkedin-logo.jpg" width='25px' align="left" style="padding-right:10px;">Firas EL Moussa</a>
+  <br>
+  <br>
 
 ### Languages and Tools:
+
+<br>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
@@ -42,12 +46,15 @@
 
 <img src="img/terminal.png" width='30px' align="left">
 
-<br/>
-<br/>
+<br>
+<br>
+<br>
+  <summary>GitHub Stats</summary>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<br>
+  <img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight" />
 
-  <img align="left" alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&theme=tokyonight)
 
-</details>
+<!-- hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 -->
+<!-- theme=tokyonight -->
