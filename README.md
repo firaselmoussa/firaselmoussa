@@ -1,55 +1,48 @@
 # Hi there, I'm Firas 👋
 
-## I'm a Junior Developer who never stops learning!!
+<h2>I'm a Junior Developer who never stops learning!!</h2>
 
-- 🌱 I’m currently learning Full Stack Web Development.
-- 🌱 My github is empty but my mind is not.
+<h3>🎓 I'm currently pursuing a Bachelor's Degree in Computer Science at the Lebanese International University</h3>
+<h3>🤖 I’m experienced in Web Development & interested in Machine Learning.</h3>
+<h3>👨‍💻 Open to collaborate with other developers</h3>
 
-### Reach to me on:
+<br>
 
-- 🌱 firaselmoussa@gmail.com
-- <a href="https://www.linkedin.com/in/firas-el-moussa-ab325221b"><img src="img/linkedin-logo.jpg" width='25px' align="left" style="padding-right:10px;">Firas EL Moussa</a>
+<h2>📪 Contact me</h2>
+<p>
+  <a href="mailto:firaselmoussa@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/firas-el-moussa-ab325221b" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+</p> 
   <br>
   <br>
 
-### Languages and Tools:
+<div>
+  <h2>🧰 Languages, libraries, frameworks, databases and tools I'm learning:</h2><br>
+    <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5">
+    <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3">
+    <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> 
+    <img src="https://img.shields.io/static/v1?label=&message=Python&color=%231572B6&style=for-the-badge&logo=python&logoColor=whitesmoke" alt="Python">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://img.shields.io/static/v1?label=&message=JAVA&color=orange&style=for-the-badge&logo=JAVA&logoColor=whitesmoke" alt="JAVA">
+    <br><br>
+    <img src="https://img.shields.io/static/v1?label=&message=bootstrap&color=%23CC6699&style=for-the-badge&logo=bootstrap&logoColor=whitesmoke" alt="bootstrap">
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery">
+    <br><br>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <br><br>
+    <img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT">
+    <img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB">
+    <img src="https://img.shields.io/static/v1?label=&message=FIGMA&color=%23552d84&style=for-the-badge&logo=figma&logoColor=whitesmoke" alt="FIGMA">
+    <img src="https://img.shields.io/static/v1?label=&message=Visual studio&color=blue&style=for-the-badge&logo=visualstudio&logoColor=whitesmoke" alt="visual studio">
+    <img src="https://img.shields.io/static/v1?label=&message=NetBeans&color=%2101710&style=for-the-badge&logo=Apache NetBeans IDE&logoColor=white" alt="NetBeans">
+    <img src="https://img.shields.io/static/v1?label=&message=PyCharm&color=%23181717&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm">
 
-<br>
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
-<img src="img/netbeans-logo.png" width='25px' align="left" style="padding-right:10px;">
-
-<img src="img/pycharm-logo.png" width='25px' align="left" style="padding-right:10px;">
-
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="JavaScript" width="26px" src="img/php-logo.png" style="padding-right:10px; height:26px" />
-
-<img src="img/python-logo.png" width='60px' align="left">
-
-<img src="img/java-logo.png" width='26px' align="left" style="padding-right:5px; margin-top:-15px;">
-
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
-<img src="img/github-logo.webp" width='27px' align="left" style="margin-right:10px;">
-
-<img src="img/terminal.png" width='30px' align="left">
+</div>
 
 <br>
 <br>
 <br>
-  <summary>GitHub Stats</summary>
+  <h2>📈 GitHub Stats</h2>
 
 <br>
   <img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight" />
