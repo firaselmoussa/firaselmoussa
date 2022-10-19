@@ -1,4 +1,6 @@
-<h1> Hi there, I'm Firas 👋</h1>
+<h1> Hi there, I'm Firas 👋  </h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=firaselmoussa&label=Profile%20views&color=0e75b6&style=flat" alt="firaselmoussa" /> </p>
 
 <h2>I'm a Junior Developer who never stops learning!!</h2>
 
@@ -13,7 +15,6 @@
   <a href="mailto:firaselmoussa@gmail.com" target="_blank"><img height="28" src = "https://img.shields.io/badge/email-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/firas-el-moussa-ab325221b" target="_blank"> <img height="28" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
 </p> 
-  <br>
   <br>
 
 <div>
@@ -41,13 +42,15 @@
 
 <br>
 <br>
-<br>
   <h2>📈 GitHub Stats</h2>
 
 <br>
-  <img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&theme=tokyonight)
+  <img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight"/>
+
+  <img alt="firaselmoussa's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=firaselmoussa&theme=tokyonight"/>
+
+  <img alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&theme=tokyonight"/>
 
 <!-- hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 -->
 <!-- theme=tokyonight -->
