@@ -1,10 +1,10 @@
-# Hi there, I'm Firas 👋
+<h1> Hi there, I'm Firas 👋</h1>
 
 <h2>I'm a Junior Developer who never stops learning!!</h2>
 
-<h3>🎓 I'm currently pursuing a Bachelor's Degree in Computer Science at the Lebanese International University</h3>
-<h3>🤖 I’m experienced in Web Development & interested in Machine Learning.</h3>
-<h3>👨‍💻 Open to collaborate with other developers</h3>
+<p>🎓 I'm currently pursuing a Bachelor's Degree in Computer Science at the Lebanese International University</p>
+<p>🤖 I’m experienced in Web Development & interested in Machine Learning.</p>
+<p>👨‍💻  Open to collaborate with other developers</p>
 
 <br>
 
