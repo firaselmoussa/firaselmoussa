@@ -1,17 +1,16 @@
   <!-- background -->
-  <img  alt="header" src="img/background.gif" height="100%" width="100%" style="z-index:-1; position:fixed; top:0;filter:brightness(.4)"/>
+  <img  alt="header" src="img/AI-and-ML-banner-with-head.png" />
 
-<center>
-<p align="left" style="position:absolute; top:0;"> <img src="https://komarev.com/ghpvc/?username=firaselmoussa&label=Profile%20views&color=0e75b6&style=flat" alt="firaselmoussa" /></p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=firaselmoussa&label=Profile%20views&color=0e75b6&style=flat" alt="firaselmoussa" /></p>
 
- <h1>Firas EL Moussa</h1>
+ <!-- <h1>Firas EL Moussa</h1>
 <h2>I'm a Junior Developer who never stops learning!</h2>
 
 <p>🎓 I'm currently pursuing a Bachelor's Degree in Computer Science at the Lebanese International University</p>
 <p>🤖 I’m experienced in Web Development & interested in Machine Learning.</p>
 <p>👨‍💻  Open to collaborate with other developers</p>
 
-<br>
+<br> -->
 
 <h2>📪 Contact me</h2>
 <p>
@@ -55,6 +54,5 @@
 
   <img alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&theme=tokyonight"/>
 
-</center>
 <!-- hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 -->
 <!-- theme=tokyonight -->
