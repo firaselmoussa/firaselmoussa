@@ -48,7 +48,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=firaselmoussa&theme=tokyonight)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=firaselmoussa&column=3&row=1&theme=tokyonight)]
 
   <img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight"/>
 
