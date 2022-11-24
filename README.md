@@ -20,7 +20,7 @@
   <br>
 
 <div>
-  <h2>🧰 Languages, libraries, frameworks, databases and tools I'm learning:</h2><br>
+  <h2>🧰 Languages, libraries, frameworks, databases and tools :</h2><br>
     <img src="https://img.shields.io/static/v1?label=&message=HTML5&color=%23E34F26&style=for-the-badge&logo=html5&logoColor=whitesmoke" alt="HTML5">
     <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=%231572B6&style=for-the-badge&logo=css3&logoColor=whitesmoke" alt="CSS3">
     <img src="https://img.shields.io/static/v1?label=&message=Javascript&color=%23F7DF1E&style=for-the-badge&logo=javascript&logoColor=grey" alt="Javascript"> 
@@ -48,13 +48,44 @@
 
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=firaselmoussa&column=3&row=1&theme=tokyonight)
+<!-- <table>
+  <thead>
+    <tr>
+      
+      <th><img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight"/></th>
+      <th><img alt="firaselmoussa's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=firaselmoussa&theme=tokyonight"/></th>
+      
+    </tr>
+   </thead>
+  
+   <tbody>
+     <tr>
+       
+       <td>![trophy](https://github-profile-trophy.vercel.app/?username=firaselmoussa&column=3&row=1&theme=tokyonight)</td>
+       <td><img alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&theme=tokyonight"/></td>
 
-  <img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight"/>
+     </tr>
+    
+  </tbody>
+</table> -->
 
-  <img alt="firaselmoussa's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=firaselmoussa&theme=tokyonight"/>
+<table>
+  <thead>
+    <tr>
+      <th><img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight"/></th>
+      <th><img alt="firaselmoussa's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=firaselmoussa&theme=tokyonight"/></th>
+    </tr>
+   </thead>
+   <tbody>
+     <tr>
+       <td><img alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&theme=tokyonight"/></td>
+       <td><img alt="firaselmoussa's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=firaselmoussa&column=3&theme=tokyonight"/></td>
+     </tr>
+  </tbody>
+</table>
 
-  <img alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&theme=tokyonight"/>
+
+
 
 <!-- hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 -->
 <!-- theme=tokyonight -->
