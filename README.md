@@ -53,8 +53,8 @@
     <tr>
       <th><img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight"/>
       <img alt="firaselmoussa's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=firaselmoussa&theme=tokyonight"/></th>
-      <th><img alt="firaselmoussa's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=firaselmoussa&column=3&row=1&theme=tokyonight"/>
-      <img alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&langs_count=100&theme=tokyonight"/>
+      <th><img alt="firaselmoussa's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=firaselmoussa&column=3&theme=tokyonight"/>
+      <img alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&langs_count=100&theme=tokyonight&layout=compact"/>
       </th>
     </tr>
    </thead>
