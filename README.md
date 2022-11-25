@@ -51,41 +51,39 @@
 <!-- <table>
   <thead>
     <tr>
-      
+
       <th><img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight"/></th>
       <th><img alt="firaselmoussa's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=firaselmoussa&theme=tokyonight"/></th>
-      
+
     </tr>
    </thead>
-  
+
    <tbody>
      <tr>
-       
+
        <td>![trophy](https://github-profile-trophy.vercel.app/?username=firaselmoussa&column=3&row=1&theme=tokyonight)</td>
        <td><img alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&theme=tokyonight"/></td>
 
      </tr>
-    
+
   </tbody>
 </table> -->
 
 <table>
   <thead>
     <tr>
-      <th><img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight"/></th>
-      <th><img alt="firaselmoussa's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=firaselmoussa&theme=tokyonight"/></th>
+      <th><img  alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=firaselmoussa&theme=tokyonight"/>
+      <img alt="firaselmoussa's GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=firaselmoussa&theme=tokyonight"/></th>
+      <th><img alt="firaselmoussa's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=firaselmoussa&column=3&row=1&theme=tokyonight"/>
+      <img alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&langs_count=100&theme=tokyonight"/>
+      </th>
     </tr>
    </thead>
    <tbody>
      <tr>
-       <td><img alt="firaselmoussa's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaselmoussa&theme=tokyonight"/></td>
-       <td><img alt="firaselmoussa's GitHub Stats" src="https://github-profile-trophy.vercel.app/?username=firaselmoussa&column=3&theme=tokyonight"/></td>
-     </tr>
+
   </tbody>
 </table>
-
-
-
 
 <!-- hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25 -->
 <!-- theme=tokyonight -->
